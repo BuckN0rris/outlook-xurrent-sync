@@ -1,0 +1,15 @@
+{
+  "id": "AAMkAGUAAAwTW11AAA=",
+  "subject": "Sammelmail: zwei Anfragen",
+  "receivedDateTime": "2026-09-19T14:41:00Z",
+  "categories": ["Nicht erledigt"],
+  "internetMessageId": "<digest.7781@example-it.xurrent.com>",
+  "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGUAAAwTW11AAA%3D",
+  "body": {
+    "contentType": "html",
+    "content": "<html><body><p>Two requests were assigned to you:</p><ul><li><a href=\"https://example-it.xurrent.com/requests/80000001\">80000001</a></li><li><a href=\"https://example-it.xurrent.com/requests/80000002\">80000002</a></li><li><a href=\"https://example-it.xurrent.com/requests/80000001\">80000001 again</a></li></ul></body></html>"
+  },
+  "internetMessageHeaders": [
+    {"name": "Message-ID", "value": "<digest.7781@example-it.xurrent.com>"}
+  ]
+}

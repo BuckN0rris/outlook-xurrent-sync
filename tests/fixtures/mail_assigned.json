@@ -1,0 +1,19 @@
+{
+  "id": "AAMkAGUAAAwTW09AAA=",
+  "subject": "WG: Zugangsdaten Emailadresse",
+  "receivedDateTime": "2026-09-21T10:12:00Z",
+  "categories": ["Nicht erledigt"],
+  "internetMessageId": "<notification.80000001.1@example-it.xurrent.com>",
+  "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGUAAAwTW09AAA%3D",
+  "parentFolderId": "AAMkAGUAAAAIBAAA=",
+  "body": {
+    "contentType": "html",
+    "content": "<html><head><style>.brand{color:#123456;}</style></head><body><p>Hello Alex Example,</p><p><b>The following request from</b> 654321-BEISPIELKUNDE SÜDTIROL <b>was assigned to you:</b><br>Request #80000001 - WG: Zugangsdaten Emailadresse</p><p>Workflow Bot reopened this request</p><p>👉 Jump in and check the details here:<br><a href=\"https://example-it.xurrent.com/requests/80000001\">https://example-it.xurrent.com/requests/80000001</a></p><img src=\"https://example-it.xurrent.com/logo.png?w=384000\" alt=\"Example Corp\"></body></html>"
+  },
+  "internetMessageHeaders": [
+    {"name": "Received", "value": "from mail.example.com (10.0.0.12) by outlook.office365.com"},
+    {"name": "Message-ID", "value": "<notification.80000001.1@example-it.xurrent.com>"},
+    {"name": "From", "value": "Example Corp <support@example.com>"},
+    {"name": "Subject", "value": "WG: Zugangsdaten Emailadresse"}
+  ]
+}

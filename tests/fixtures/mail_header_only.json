@@ -1,0 +1,16 @@
+{
+  "id": "AAMkAGUAAAwTW13AAA=",
+  "subject": "Zugangsdaten",
+  "receivedDateTime": "2026-09-17T16:05:00Z",
+  "categories": ["Nicht erledigt"],
+  "internetMessageId": "<request.70000001.9@example-it.xurrent.com>",
+  "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGUAAAwTW13AAA%3D",
+  "body": {
+    "contentType": "html",
+    "content": "<html><body><p>Die Details entnehmen Sie bitte dem Portal.</p></body></html>"
+  },
+  "internetMessageHeaders": [
+    {"name": "Message-ID", "value": "<request.70000001.9@example-it.xurrent.com>"},
+    {"name": "X-Xurrent-Account", "value": "example-it"}
+  ]
+}

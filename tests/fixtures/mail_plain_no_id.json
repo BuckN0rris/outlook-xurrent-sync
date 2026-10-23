@@ -1,0 +1,16 @@
+{
+  "id": "AAMkAGUAAAwTW12AAA=",
+  "subject": "Kannst du bitte den Drucker im 2. Stock anschauen?",
+  "receivedDateTime": "2026-09-18T09:20:00Z",
+  "categories": ["Nicht erledigt"],
+  "internetMessageId": "<CAF=1234567@mail.example.com>",
+  "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGUAAAwTW12AAA%3D",
+  "body": {
+    "contentType": "html",
+    "content": "<html><body><p>Hallo Max,</p><p>der Drucker im 2. Stock zieht kein Papier mehr. Kostenstelle 4711, Inventarnummer 654321.</p><p>Danke, Hans</p></body></html>"
+  },
+  "internetMessageHeaders": [
+    {"name": "Message-ID", "value": "<CAF=1234567@mail.example.com>"},
+    {"name": "From", "value": "Hans <hans@example.com>"}
+  ]
+}

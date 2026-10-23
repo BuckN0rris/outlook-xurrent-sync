@@ -1,0 +1,15 @@
+{
+  "id": "AAMkAGUAAAwTW10AAA=",
+  "subject": "Request #80000003 assigned to you - Neuer Mitarbeiter",
+  "receivedDateTime": "2026-09-20T08:03:00Z",
+  "categories": ["Nicht erledigt", "Kunde A"],
+  "internetMessageId": "<notification.80000003.1@example-it.xurrent.com>",
+  "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGUAAAwTW10AAA%3D",
+  "body": {
+    "contentType": "html",
+    "content": "<html><body><p>Request #80000001 is mentioned in the body only.</p><p><a href=\"https://example-it.xurrent.com/requests/80000001\">open</a></p></body></html>"
+  },
+  "internetMessageHeaders": [
+    {"name": "Message-ID", "value": "<notification.80000003.1@example-it.xurrent.com>"}
+  ]
+}

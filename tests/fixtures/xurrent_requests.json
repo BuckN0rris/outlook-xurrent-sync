@@ -1,0 +1,34 @@
+[
+  {
+    "id": 80000001,
+    "subject": "WG: Zugangsdaten Emailadresse",
+    "status": "completed",
+    "completed_at": "2026-09-21T11:40:12Z",
+    "team": {"id": 5511, "name": "Service Desk"},
+    "member": {"id": 991, "name": "Alex Example"}
+  },
+  {
+    "id": 80000002,
+    "subject": "Drucker im 2. Stock offline",
+    "status": "in_progress",
+    "completed_at": null,
+    "team": {"id": 5511, "name": "Service Desk"},
+    "member": {"id": 991, "name": "Alex Example"}
+  },
+  {
+    "id": 80000003,
+    "subject": "Neuer Mitarbeiter - Onboarding",
+    "status": "waiting_for_customer",
+    "completed_at": null,
+    "team": {"id": 5511, "name": "Service Desk"},
+    "member": {"id": 991, "name": "Alex Example"}
+  },
+  {
+    "id": 70000001,
+    "subject": "Zugangsdaten Portal",
+    "status": "declined",
+    "completed_at": "2026-09-18T07:02:00Z",
+    "team": {"id": 5511, "name": "Service Desk"},
+    "member": {"id": 991, "name": "Alex Example"}
+  }
+]
